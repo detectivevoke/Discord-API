@@ -12,4 +12,4 @@ https://discord-api-detectivevoke123.herokuapp.com/info/{token}
 Generate a Captcha Key
 https://discord-api-detectivevoke123.herokuapp.com/captcha
 
-Check main.py for examples of code.
+Check test.py for examples of code.
